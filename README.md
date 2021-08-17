@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Parth Dave
 - 👀 I’m interested in node,angular, cloud and more!
-- 🌱 I’m currently learning angular with node
+- 🌱 I’m currently learning angular
 - 📫 Reach me parth.dave@nexuslinkservices.in
