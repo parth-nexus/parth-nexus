@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Parth Dave
-- 👀 I’m interested to learn about Nodejs, Angular, React, Cloud and so much more!
+- 👀 I’m interested to learn about Nodejs, React.js, AWS, Docker, Microservices and so much more!
 - 📫 Reach me parth.dave@nexuslinkservices.in
